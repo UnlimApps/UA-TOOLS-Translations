@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_SETTINGS</key>
+	<string>Werbungs Einstellung</string>
+	<key>APPEARANCE_OPTIONS</key>
+	<string>Aussehen</string>
+	<key>APP_RESTART_REQUIRED</key>
+	<string>Dieses Feature benötigt einen restart der App &#39;Close App&#39; and restarting.</string>
+	<key>CANCEL</key>
+	<string>Abbrechen</string>
+	<key>CHANGE_PP_PASSWORD</key>
+	<string>Paswort ändern</string>
+	<key>CLOSE_APP</key>
+	<string>Schließe die App</string>
+	<key>CONTACT_SUPPORT_TOOLS</key>
+	<string>Support kontaktieren (support@unlimapps.com)</string>
+	<key>DELETE_PASSCODE</key>
+	<string>Delete Passcode</string>
+	<key>DOWNGRADE_TOOLS</key>
+	<string>Downgrade %@</string>
+	<key>ENTER_PASSWORD</key>
+	<string>Für die Instagram App ein Passwort oder Touch Id zum öffnen verwenden</string>
+	<key>FILL_OUT_ALL_INFO</key>
+	<string>Bist du sicher das du alle Informationen ausgefüllt hast?</string>
+	<key>FOLLOW_ON_TWITTER</key>
+	<string>Folge auf Twitter: @unlimapps</string>
+	<key>FULL_SCREEN</key>
+	<string>Full Screen</string>
+	<key>FULL_SCREEN_DESC</key>
+	<string>Einschalten um den ganzen Bildschierm zu verwenden, es gibt dir mehr zu sehen</string>
+	<key>HEY_THERE_ALERT</key>
+	<string>Hey DU!</string>
+	<key>LOGOUT_FROM_TWEAK</key>
+	<string>Abmelden von</string>
+	<key>MISSING_INFORMATION</key>
+	<string>Fehlende Informationen</string>
+	<key>MUST_HAVE_TWITTER</key>
+	<string>Du brauchst einen Twitter Account um ++ zu liken</string>
+	<key>NO_THANKS_ALERT</key>
+	<string>Nein Danke</string>
+	<key>OK</key>
+	<string>Ok</string>
+	<key>OOPS</key>
+	<string>Oops!</string>
+	<key>PAYMENT_CONFIRMATION</key>
+	<string>Du hast die Werbung für immer entfernt. Danke für den Support es bedeutet mir eine menge!</string>
+	<key>PAYMENT_OK</key>
+	<string>Okay!</string>
+	<key>PAYMENT_THANK_YOU_TITLE</key>
+	<string>Danke!</string>
+	<key>PREMIUM_HEADER</key>
+	<string>Werbung entfernen</string>
+	<key>REPORT_BUG_FEATURE</key>
+	<string>Bugs oder Zubehör melden</string>
+	<key>SECURITY_SETTINGS</key>
+	<string>Sicherheits Einstellung</string>
+	<key>SET_PASSCODE</key>
+	<string>Setze Passwort</string>
+	<key>SUPPORT_ADS_HAVE_BEEN_REMOVED</key>
+	<string>Deine Werbung wurde entfernt!</string>
+	<key>SUPPORT_HEADER</key>
+	<string>SUPPORT</string>
+	<key>SUPPORT_PURCHASE_REMOVE_ADS_TITLE</key>
+	<string>Kaufe das entfernungspaket der Werbung für</string>
+	<key>SUPPORT_REMOVE_ADS_TITLE</key>
+	<string>Unterstütze uns und entferne die Werbung</string>
+	<key>TOOLS_CRASH_REPORTS</key>
+	<string>Sende Crash Logs</string>
+	<key>TOOLS_CRASH_REPORTS_FOOTER</key>
+	<string>uAutomatisch crash berichte an @unlimapps senden</string>
+	<key>TOOLS_CRASH_REPORTS_HEADER</key>
+	<string>Crash Reports</string>
+	<key>TOOLS_DESCRIBE_ISSUE_EMAIL</key>
+	<string>PBechreibe deine Fehler unten:</string>
+	<key>TOOLS_MORE_TWEAKS_HEADER</key>
+	<string>Mehr Tweaks</string>
+	<key>TOOLS_NOTIFICATIONS_HEADER</key>
+	<string>Notifications</string>
+	<key>TOOLS_SHOW_UPDATES</key>
+	<string>Zeige Tweak Updates</string>
+	<key>TOOLS_SHOW_UPDATES_FOOTER</key>
+	<string>Zeige Tweak veränderungen in den repos.</string>
+	<key>TWEET_TO_REMOVE_ADS</key>
+	<string>Das zu Twittern wird die IG ++ Werbung für 1.5 Wochen entfernen. Du kannst jede Woche erneut Twittern. Deine Unterstützung ist Super!</string>
+	<key>TWEET_TO_REMOVE_ADS_HEADER</key>
+	<string>Die Werbung umsonst entfernen</string>
+	<key>TWEET_TO_REMOVE_ADS_TITLE</key>
+	<string>Twitter um die Werbung zu entfernen</string>
+	<key>USE_TOUCH_ID</key>
+	<string>Benutze Touch ID</string>
+</dict>
+</plist>
