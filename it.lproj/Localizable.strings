@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>AD_SETTINGS</key>
+<string>Impostazioni pubblicità</string>
+<key>APPEARANCE_OPTIONS</key>
+<string>Opzioni grafica</string>
+<key>APP_RESTART_REQUIRED</key>
+<string>Per abilitare questa feature devi riavviare Instagram. Puoi chiudere l&apos;app ora selezionando &apos;Chiudi App&apos;, e poi riaprila.</string>
+<key>CANCEL</key>
+<string>Annulla</string>
+<key>CHANGE_PP_PASSWORD</key>
+<string>Cambia Password</string>
+<key>CLOSE_APP</key>
+<string>Chiudi App</string>
+<key>CONTACT_SUPPORT_TOOLS</key>
+<string>Contatta il supporto (support@unlimapps.com)</string>
+<key>DELETE_PASSCODE</key>
+<string>Cancella codice</string>
+<key>DOWNGRADE_TOOLS</key>
+<string>Downgrade %@</string>
+<key>ENTER_PASSWORD</key>
+<string>Abilita password e/o TouchID per accedere a Instagram</string>
+<key>FILL_OUT_ALL_INFO</key>
+<string>Assicurati di riempire tutti i campi!</string>
+<key>FOLLOW_ON_TWITTER</key>
+<string>Segui su Twitter: @unlimapps</string>
+<key>FULL_SCREEN</key>
+<string>Schermo intero</string>
+<key>FULL_SCREEN_DESC</key>
+<string>Abilita schermo intero, per uno spazio maggiore</string>
+<key>HEY_THERE_ALERT</key>
+<string>Ciao!</string>
+<key>LOGOUT_FROM_TWEAK</key>
+<string>Logout da</string>
+<key>MISSING_INFORMATION</key>
+<string>Informazioni mancanti</string>
+<key>MUST_HAVE_TWITTER</key>
+<string>Devi possedere un account Twitter per mettere like ++</string>
+<key>NO_THANKS_ALERT</key>
+<string>No Grazie</string>
+<key>OK</key>
+<string>Ok</string>
+<key>OOPS</key>
+<string>Ops!</string>
+<key>PAYMENT_CONFIRMATION</key>
+<string>Hai rimosso le pubblicità per sempre. Grazie per il supporto, per me significa molto!</string>
+<key>PAYMENT_OK</key>
+<string>Ok!</string>
+<key>PAYMENT_THANK_YOU_TITLE</key>
+<string>Grazie!</string>
+<key>PREMIUM_HEADER</key>
+<string>Rimozione pubblicità</string>
+<key>REPORT_BUG_FEATURE</key>
+<string>Segnala un bug o richiedi una feature</string>
+<key>SECURITY_SETTINGS</key>
+<string>Impostazioni di sicurezza</string>
+<key>SET_PASSCODE</key>
+<string>Imposta codice</string>
+<key>SUPPORT_ADS_HAVE_BEEN_REMOVED</key>
+<string>Le pubblicità sono state rimosse!</string>
+<key>SUPPORT_HEADER</key>
+<string>SUPPORTO</string>
+<key>SUPPORT_PURCHASE_REMOVE_ADS_TITLE</key>
+<string>Compra la rimozione pubblicità per</string>
+<key>SUPPORT_REMOVE_ADS_TITLE</key>
+<string>Supportaci e rimuovi le pubblicità per</string>
+<key>TOOLS_CRASH_REPORTS</key>
+<string>Invia crash logs</string>
+<key>TOOLS_CRASH_REPORTS_FOOTER</key>
+<string>Invia automaticamente segnalazioni crash a @unlimapps</string>
+<key>TOOLS_CRASH_REPORTS_HEADER</key>
+<string>Segnalazioni crash</string>
+<key>TOOLS_DESCRIBE_ISSUE_EMAIL</key>
+<string>Descrivi il tuo problema qui sotto:</string>
+<key>TOOLS_MORE_TWEAKS_HEADER</key>
+<string>Più tweak</string>
+<key>TOOLS_NOTIFICATIONS_HEADER</key>
+<string>Notifiche</string>
+<key>TOOLS_SHOW_UPDATES</key>
+<string>Mostra aggiornamenti tweak</string>
+<key>TOOLS_SHOW_UPDATES_FOOTER</key>
+<string>Mostra aggiornamenti tweak sulla repo beta o sulla repo di BigBoss.</string>
+<key>TWEET_TO_REMOVE_ADS</key>
+<string>Twittando rimuoverai le pubblicità di IG ++ per 1.5 settimane. Puoi twittare ogni settimana gratis. Grazie per il supporto!</string>
+<key>TWEET_TO_REMOVE_ADS_HEADER</key>
+<string>Rimuovi pubblicità gratis</string>
+<key>TWEET_TO_REMOVE_ADS_TITLE</key>
+<string>Twitta per rimouvere pubblicità</string>
+<key>USE_TOUCH_ID</key>
+<string>Usa Touch ID</string>
+</dict>
+</plist>
