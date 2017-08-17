@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NO_THANKS_ALERT</key>
+	<string>No Thanks</string>
+	<key>TWEET_TO_REMOVE_ADS_TITLE</key>
+	<string>Tweet To Remove Ads</string>
+	<key>FULL_SCREEN_DESC</key>
+	<string>Turn on to enable full screen, giving you more screen real estate</string>
+	<key>PAYMENT_CONFIRMATION</key>
+	<string>You have removed ads forvever. Thanks for your support it means a ton!</string>
+	<key>FILL_OUT_ALL_INFO</key>
+	<string>Make sure you fill out all of the information!</string>
+	<key>SUPPORT_HEADER</key>
+	<string>SUPPORT</string>
+	<key>FOLLOW_ON_TWITTER</key>
+	<string>Follow on Twitter: @unlimapps</string>
+	<key>REPORT_BUG_FEATURE</key>
+	<string>Report Bug or Feature Request</string>
+	<key>CONTACT_SUPPORT_TOOLS</key>
+	<string>Contact Support (support@unlimapps.com)</string>
+	<key>DOWNGRADE_TOOLS</key>
+	<string>Downgrade %@</string>
+	<key>SUPPORT_ADS_HAVE_BEEN_REMOVED</key>
+	<string>Your ads have been removed!</string>
+	<key>APPEARANCE_OPTIONS</key>
+	<string>Appearance Options</string>
+	<key>HEY_THERE_ALERT</key>
+	<string>Hey There!</string>
+	<key>TWEET_TO_REMOVE_ADS</key>
+	<string>Tweeting will remove IG ++ ads for 1.5 weeks. You can tweet for FREE every week. Your support is awesome!</string>
+	<key>PAYMENT_OK</key>
+	<string>Okay!</string>
+	<key>SUPPORT_REMOVE_ADS_TITLE</key>
+	<string>Support us and remove ads for</string>
+	<key>DELETE_PASSCODE</key>
+	<string>Delete Passcode</string>
+	<key>OOPS</key>
+	<string>Oops!</string>
+	<key>USE_TOUCH_ID</key>
+	<string>Use Touch ID</string>
+	<key>FULL_SCREEN</key>
+	<string>Full Screen</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>LOGOUT_FROM_TWEAK</key>
+	<string>Logout from</string>
+	<key>SUPPORT_PURCHASE_REMOVE_ADS_TITLE</key>
+	<string>Purchase Ad Removal for</string>
+	<key>PREMIUM_HEADER</key>
+	<string>Ad Removal</string>
+	<key>CHANGE_PP_PASSWORD</key>
+	<string>Change Password</string>
+	<key>OK</key>
+	<string>Ok</string>
+	<key>CLOSE_APP</key>
+	<string>Close App</string>
+	<key>TWEET_TO_REMOVE_ADS_HEADER</key>
+	<string>Free Ad Removal</string>
+	<key>SECURITY_SETTINGS</key>
+	<string>Security Settings</string>
+	<key>PAYMENT_THANK_YOU_TITLE</key>
+	<string>Thanks!</string>
+	<key>MISSING_INFORMATION</key>
+	<string>Missing Information</string>
+	<key>APP_RESTART_REQUIRED</key>
+	<string>Enabling this feature requires restarting the Instagram app. You can close the app now by selecting &apos;Close App&apos; and restarting.</string>
+	<key>SET_PASSCODE</key>
+	<string>Set Passcode</string>
+	<key>ENTER_PASSWORD</key>
+	<string>Enable a password and/or TouchID to access the Instagram App</string>
+	<key>AD_SETTINGS</key>
+	<string>Ad Settings</string>
+	<key>MUST_HAVE_TWITTER</key>
+	<string>You need to have a twitter account to like ++</string>
+	<key>TOOLS_NOTIFICATIONS_HEADER</key>
+	<string>Notifications</string>
+	<key>TOOLS_SHOW_UPDATES</key>
+	<string>Show Tweak Updates</string>
+	<key>TOOLS_SHOW_UPDATES_FOOTER</key>
+	<string>Show tweak updates on the beta or BigBoss repo.</string>
+	<key>TOOLS_CRASH_REPORTS_HEADER</key>
+	<string>Crash Reports</string>
+	<key>TOOLS_CRASH_REPORTS</key>
+	<string>Send Crash Logs</string>
+	<key>TOOLS_CRASH_REPORTS_FOOTER</key>
+	<string>Automatically send crash reports to @unlimapps</string>
+	<key>TOOLS_MORE_TWEAKS_HEADER</key>
+	<string>More Tweaks</string>
+	<key>TOOLS_DESCRIBE_ISSUE_EMAIL</key>
+	<string>Please describe your issue below:</string>
+</dict>
+</plist>
