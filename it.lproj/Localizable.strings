@@ -19,7 +19,7 @@
 <key>DELETE_PASSCODE</key>
 <string>Cancella codice</string>
 <key>DOWNGRADE_TOOLS</key>
-<string>Downgrade %@</string>
+<string>Retrocedere %@</string>
 <key>ENTER_PASSWORD</key>
 <string>Abilita password e/o TouchID per accedere a Instagram</string>
 <key>FILL_OUT_ALL_INFO</key>
