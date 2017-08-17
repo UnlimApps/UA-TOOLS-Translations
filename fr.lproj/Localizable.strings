@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NO_THANKS_ALERT</key>
+	<string>Non Merci</string>
+	<key>TWEET_TO_REMOVE_ADS_TITLE</key>
+	<string>Tweeter Pour Supprimer les pubs</string>
+	<key>FULL_SCREEN_DESC</key>
+	<string>Activer pour entrer en plein écran, ce qui vous donne un réel design</string>
+	<key>PAYMENT_CONFIRMATION</key>
+	<string>Vous avez supprimer les pubs. Merci de votre support envers nous!</string>
+	<key>FILL_OUT_ALL_INFO</key>
+	<string>Veiller à bien remplir toute les informations!</string>
+	<key>SUPPORT_HEADER</key>
+	<string>SUPPORT</string>
+	<key>FOLLOW_ON_TWITTER</key>
+	<string>Suis moi sur Twitter: @unlimapps Translated by RayannAirline</string>
+	<key>REPORT_BUG_FEATURE</key>
+	<string>Reporter un Bug ou demander une fonctionnalité</string>
+	<key>CONTACT_SUPPORT_TOOLS</key>
+	<string>Contacter Support (support@unlimapps.com)</string>
+	<key>DOWNGRADE_TOOLS</key>
+	<string>Rétrograder %@</string>
+	<key>SUPPORT_ADS_HAVE_BEEN_REMOVED</key>
+	<string>Vos pubs ont été supprimé!</string>
+	<key>APPEARANCE_OPTIONS</key>
+	<string>Options apparence</string>
+	<key>HEY_THERE_ALERT</key>
+	<string>Bienvenue!</string>
+	<key>TWEET_TO_REMOVE_ADS</key>
+	<string>Tweeter vous enlèvera les pubs IG ++ ads pour 1 semaine et demi. Vous pouvez tweeter toute les semaines. Votre support est apprécié!</string>
+	<key>PAYMENT_OK</key>
+	<string>Okay!</string>
+	<key>SUPPORT_REMOVE_ADS_TITLE</key>
+	<string>Supporter nous et enlever les pubs pour</string>
+	<key>DELETE_PASSCODE</key>
+	<string>Supprimer le mot de passe</string>
+	<key>OOPS</key>
+	<string>Oups!</string>
+	<key>USE_TOUCH_ID</key>
+	<string>Utiliser Touch ID</string>
+	<key>FULL_SCREEN</key>
+	<string>Plein écran</string>
+	<key>CANCEL</key>
+	<string>Annuler</string>
+	<key>LOGOUT_FROM_TWEAK</key>
+	<string>Déconnexion de</string>
+	<key>SUPPORT_PURCHASE_REMOVE_ADS_TITLE</key>
+	<string>Acheter la suppression de pub pour</string>
+	<key>PREMIUM_HEADER</key>
+	<string>Suppression de pub</string>
+	<key>CHANGE_PP_PASSWORD</key>
+	<string>Changer mot de passe</string>
+	<key>OK</key>
+	<string>Ok</string>
+	<key>CLOSE_APP</key>
+	<string>Fermer App</string>
+	<key>TWEET_TO_REMOVE_ADS_HEADER</key>
+	<string>Suppression de pub gratuite</string>
+	<key>SECURITY_SETTINGS</key>
+	<string>Réglages de sécurité</string>
+	<key>PAYMENT_THANK_YOU_TITLE</key>
+	<string>Merci!</string>
+	<key>MISSING_INFORMATION</key>
+	<string>Informations manquantes</string>
+	<key>APP_RESTART_REQUIRED</key>
+	<string>Activer cette option nécessite de relancer Instagram++. Vous pouvez maintenant fermer l'application en &apos;Fermer App&apos; et relancer.</string>
+	<key>SET_PASSCODE</key>
+	<string>Définir mot de passe</string>
+	<key>ENTER_PASSWORD</key>
+	<string>Activer un mot de passe et/ou TouchID pour accéder à Instagram</string>
+	<key>AD_SETTINGS</key>
+	<string>Réglages de pub</string>
+	<key>MUST_HAVE_TWITTER</key>
+	<string>Vous devez avoir un compte Twitter pour aimer</string>
+	<key>TOOLS_NOTIFICATIONS_HEADER</key>
+	<string>Notifications</string>
+	<key>TOOLS_SHOW_UPDATES</key>
+	<string>Montrer les mises à jour des Tweaks</string>
+	<key>TOOLS_SHOW_UPDATES_FOOTER</key>
+	<string>Montrer les mise à jour des tweaks sur la beta ou BigBoss repo.</string>
+	<key>TOOLS_CRASH_REPORTS_HEADER</key>
+	<string>Reporter des Crash</string>
+	<key>TOOLS_CRASH_REPORTS</key>
+	<string>Envoyer Crash Logs</string>
+	<key>TOOLS_CRASH_REPORTS_FOOTER</key>
+	<string>Envoyer automatiquement les Crash Logs à @unlimapps</string>
+	<key>TOOLS_MORE_TWEAKS_HEADER</key>
+	<string>Plus de Tweaks</string>
+	<key>TOOLS_DESCRIBE_ISSUE_EMAIL</key>
+	<string>SVP Décriver votre problème ci-dessous:</string>
+</dict>
+</plist>
