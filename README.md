@@ -1,4 +1,4 @@
-# UA-TOOLS-Translations
+# Translations for UA Shared Tools
 
 Thank you for taking the time to help!
 
